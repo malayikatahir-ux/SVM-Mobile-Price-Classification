@@ -154,10 +154,8 @@ Comparing multiple kernels helped understand how different SVM configurations be
 
 The trained models were evaluated using:
 
-* Mean Absolute Error (MAE)
-* Mean Squared Error (MSE)
-* R² Score
-
+* Accuracy_Score
+  
 Predicted results were compared with actual values to measure how effectively the model learned from the data.
 
 ---
